@@ -5,4 +5,22 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <!-- Service Gas Brand Array -->
+    <string-array name="gas_brands">
+        <item>Total</item>
+        <item>K-gas</item>
+        <item>Oilibya</item>
+        <item>Hashi</item>
+        <item>Caltex</item>
+    </string-array>
+
+    <!-- Gas weight -->
+    <string-array name="gas_weight">
+        <item>3kgs</item>
+        <item>6kgs</item>
+        <item>12kgs</item>
+        <item>18kgs</item>
+        <item>25kgs</item>
+    </string-array>
 </resources>
